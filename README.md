@@ -1,2 +1,1 @@
-# SimForge-AI
-SimForge — simulateurs agri/transport/forêt (auto)
+# SimForge-AI — générateur de jeux de simulation (agri/transport/forêt)
